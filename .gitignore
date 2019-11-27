@@ -30,3 +30,7 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### properties ###
+/src/main/resources/github.yml
+/src/main/resources/jwtauth.yml
